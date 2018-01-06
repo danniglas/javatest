@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class InputApp {
 
     public static void main(String[] args) {
-        System.out.println("Dani gibt ihre Lieblingszahl ein");
+        System.out.println("Dani gibt ihre Nummer ein");
         Scanner scanner = new Scanner(System.in);
 
         try {
